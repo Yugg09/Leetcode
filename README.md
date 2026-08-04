@@ -8,20 +8,25 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Yugg09/Leetcode/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/Yugg09/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Yugg09/Leetcode/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/Yugg09/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Yugg09/Leetcode/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/Yugg09/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Yugg09/Leetcode/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/Yugg09/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Yugg09/Leetcode/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/Yugg09/Leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
