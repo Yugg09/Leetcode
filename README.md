@@ -17,6 +17,7 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Yugg09/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0695-max-area-of-island](https://github.com/Yugg09/Leetcode/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/Yugg09/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
@@ -29,4 +30,12 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 | ------- |
 | [0695-max-area-of-island](https://github.com/Yugg09/Leetcode/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/Yugg09/Leetcode/tree/master/1254-number-of-closed-islands) |
+## Tree
+|  |
+| ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Yugg09/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Yugg09/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 <!---LeetCode Topics End-->
