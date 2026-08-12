@@ -7,6 +7,7 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 ## Array
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Yugg09/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Yugg09/Leetcode/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/Yugg09/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Depth-First Search
@@ -38,4 +39,8 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Yugg09/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Yugg09/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
