@@ -53,5 +53,6 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/Yugg09/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Yugg09/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
