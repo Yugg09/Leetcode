@@ -50,4 +50,8 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yugg09/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Yugg09/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
