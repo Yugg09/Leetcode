@@ -12,6 +12,7 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 | [1254-number-of-closed-islands](https://github.com/Yugg09/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Yugg09/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1872-stone-game-viii](https://github.com/Yugg09/Leetcode/tree/master/1872-stone-game-viii) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Yugg09/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Yugg09/Leetcode/tree/master/1872-stone-game-viii) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Yugg09/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
