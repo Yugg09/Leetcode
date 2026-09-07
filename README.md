@@ -52,6 +52,7 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 ## String
 |  |
 | ------- |
+| [0940-distinct-subsequences-ii](https://github.com/Yugg09/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yugg09/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Database
 |  |
@@ -81,6 +82,7 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 ## Dynamic Programming
 |  |
 | ------- |
+| [0940-distinct-subsequences-ii](https://github.com/Yugg09/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/Yugg09/Leetcode/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
