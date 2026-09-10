@@ -19,6 +19,7 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 | ------- |
 | [0695-max-area-of-island](https://github.com/Yugg09/Leetcode/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/Yugg09/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Yugg09/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -39,10 +40,12 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Yugg09/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Yugg09/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Yugg09/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Yugg09/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Sliding Window
 |  |
 | ------- |
