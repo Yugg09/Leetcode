@@ -9,6 +9,7 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Yugg09/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Yugg09/Leetcode/tree/master/0695-max-area-of-island) |
+| [0835-image-overlap](https://github.com/Yugg09/Leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Yugg09/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Yugg09/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1872-stone-game-viii](https://github.com/Yugg09/Leetcode/tree/master/1872-stone-game-viii) |
@@ -36,6 +37,7 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Yugg09/Leetcode/tree/master/0695-max-area-of-island) |
+| [0835-image-overlap](https://github.com/Yugg09/Leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Yugg09/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Tree
 |  |
