@@ -12,6 +12,7 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 | [0835-image-overlap](https://github.com/Yugg09/Leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Yugg09/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Yugg09/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Yugg09/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/Yugg09/Leetcode/tree/master/1872-stone-game-viii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Yugg09/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Yugg09/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -55,6 +56,7 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 | [0643-maximum-average-subarray-i](https://github.com/Yugg09/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Yugg09/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yugg09/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Yugg09/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## String
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/Yugg09/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Yugg09/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/Yugg09/Leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Yugg09/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Yugg09/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -115,6 +118,7 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 ## Binary Search
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Yugg09/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Yugg09/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -128,4 +132,8 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Yugg09/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Hash Table
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Yugg09/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
