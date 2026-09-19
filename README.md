@@ -86,6 +86,7 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 ## Math
 |  |
 | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Yugg09/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1872-stone-game-viii](https://github.com/Yugg09/Leetcode/tree/master/1872-stone-game-viii) |
 | [3870-count-commas-in-range](https://github.com/Yugg09/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Yugg09/Leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -136,4 +137,8 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Yugg09/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Yugg09/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
