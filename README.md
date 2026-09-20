@@ -63,6 +63,7 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 | [0940-distinct-subsequences-ii](https://github.com/Yugg09/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yugg09/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Yugg09/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Yugg09/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Database
 |  |
 | ------- |
@@ -141,4 +142,8 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Yugg09/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Yugg09/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
