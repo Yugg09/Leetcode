@@ -66,6 +66,7 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Yugg09/Leetcode/tree/master/0022-generate-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Yugg09/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yugg09/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yugg09/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -105,6 +106,7 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Yugg09/Leetcode/tree/master/0022-generate-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Yugg09/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Yugg09/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/Yugg09/Leetcode/tree/master/1872-stone-game-viii) |
@@ -173,7 +175,12 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Yugg09/Leetcode/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yugg09/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yugg09/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yugg09/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Yugg09/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
