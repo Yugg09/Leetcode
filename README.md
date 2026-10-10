@@ -17,6 +17,7 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yugg09/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Yugg09/Leetcode/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yugg09/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Yugg09/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Yugg09/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3525-find-x-value-of-array-ii](https://github.com/Yugg09/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Yugg09/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -144,10 +145,12 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Yugg09/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yugg09/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Yugg09/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Yugg09/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Yugg09/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Yugg09/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Two Pointers
 |  |
@@ -159,6 +162,7 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 | [0678-valid-parenthesis-string](https://github.com/Yugg09/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yugg09/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yugg09/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Yugg09/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Yugg09/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Hash Table
 |  |
@@ -206,4 +210,8 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yugg09/Leetcode/tree/master/0022-generate-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Yugg09/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
