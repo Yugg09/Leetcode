@@ -18,6 +18,7 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 | [1872-stone-game-viii](https://github.com/Yugg09/Leetcode/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yugg09/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yugg09/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Yugg09/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Yugg09/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3525-find-x-value-of-array-ii](https://github.com/Yugg09/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Yugg09/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -214,4 +215,8 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yugg09/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Yugg09/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
