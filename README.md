@@ -21,6 +21,7 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yugg09/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Yugg09/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3525-find-x-value-of-array-ii](https://github.com/Yugg09/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Yugg09/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Yugg09/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Yugg09/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Depth-First Search
@@ -153,6 +154,7 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yugg09/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Yugg09/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Yugg09/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yugg09/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yugg09/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Yugg09/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Yugg09/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
