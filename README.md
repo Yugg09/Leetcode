@@ -22,6 +22,7 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Yugg09/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Yugg09/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3525-find-x-value-of-array-ii](https://github.com/Yugg09/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Yugg09/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Yugg09/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Yugg09/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Yugg09/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -155,6 +156,7 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yugg09/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Yugg09/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Yugg09/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Yugg09/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
@@ -176,6 +178,7 @@ A collection of my LeetCode solutions written in **C++**, documenting my journey
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yugg09/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yugg09/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Yugg09/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Yugg09/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Geometry
 |  |
 | ------- |
